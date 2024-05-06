@@ -8,6 +8,9 @@ If you are using Steam Deck, this script will install it on your system in like 
 
 Note: This installation script is by no means affiliated with Mozilla Firefox project, or its maintainers.
 
+## Dependencies
+- Curl
+
 ## Usage
 
 Clone the repo and run the script
